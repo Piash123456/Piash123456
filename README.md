@@ -26,14 +26,14 @@
 
 ---
 
-## 🚀 Skills (Animated Icons)
+## 🚀 Skills 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,flutter,html,css,js,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Live Animation)
+## 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
@@ -44,7 +44,7 @@
 
 ---
 
-## 📈 Activity Graph (Animated)
+## 📈 Activity Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
 </p>
@@ -68,7 +68,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://facebook.com">
+  <a href="https://www.facebook.com/share/18kZsGGHVS/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://linkedin.com">
@@ -78,7 +78,7 @@
 
 ---
 
-## 👀 Profile Views (Live Counter)
+## 👀 Profile Views 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
