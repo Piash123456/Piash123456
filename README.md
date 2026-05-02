@@ -10,7 +10,7 @@
 - 🎓 University Student
 - 💻 Learning AI + Flutter
 - 🚀 Building my own AI Assistant
-- 🌍 Love Traveling & Music
+- 🌍 Love Gaming & Music
 
 - ## 🚀 Skills
 <p align="center">
