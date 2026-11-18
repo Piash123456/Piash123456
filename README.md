@@ -1,17 +1,18 @@
-<!-- 🔥 HEADER WAVE ANIMATION -->
+<!-- 🔥 PREMIUM HEADER WAVE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Piash%20Rahman&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=230&section=header&text=MD%20SHAZZADUR%20RAHMAN%20PIASH&fontSize=28&fontColor=ffffff&animation=fadeIn&desc=Passionate%20Software%20Developer%20%7C%20AI%20Enthusiast&descSize=15&descColor=00F7FF" alt="Header Banner" />
 </p>
 
-<!-- 🔥 TYPING ANIMATION -->
+<!-- 🔥 ENHANCED TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=🤖+AI+Enthusiast;📱+Flutter+Developer;🐍+Python+Learner;💡+Problem+Solver;🚀+Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=💻+Building+Cross-Platform+Mobile+Apps;📱+Flutter+%26+React+Native+Developer;🤖+Applied+Machine+Learning+Research;💡+Solving+Real-World+Problems;🚀+Transforming+Ideas+Into+Code" alt="Typing Animation" />
 </p>
 
-<!-- 🎮 ANIMATED CODING GIF -->
+<!-- 🎮 MODERN ANIMATED CODING GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="Modern Coding GIF" />
 </p>
+<br>
 
 ---
 
