@@ -51,27 +51,22 @@
 | **[ecommerce-web-clothing-store](https://github.com/Piash123456/ecommerce-web-clothing-store)** | HTML, Web | An e-commerce website for a clothing store |
 
 ---
-
-## 🐍 Contribution Snake Animation
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piash123456/Piash123456/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Piash123456/Piash123456/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Piash123456/Piash123456/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+## 📊 GitHub Stats & Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piash123456&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.facebook.com/share/18kZsGGHVS/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+  <a href="https://www.linkedin.com/in/md-shazzadur-rahman-piash-287345319?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:rpiash76@gmail.com" target="_blank">
+  <a href="https://instagram.com/mdshazzadurpiash" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:piash0286@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
