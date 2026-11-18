@@ -20,7 +20,7 @@
   
   *Hi there! 👋 I'm **Md. Shazzadur Rahman Piash**, a passionate software developer and tech enthusiast.*
   
-  | 🎓 **Education** | Final-year CSE Student at **Daffodil International University** |
+  | 🎓 **Education** | Student at **Daffodil International University** |
   | :--- | :--- |
   | 📱 **App Dev** | Building cross-platform mobile apps with **Flutter** & **React Native** (e.g., Speakup, LifeOS) |
   | 🤖 **ML Research**| Experience in Applied Machine Learning (Student Dropout Prediction) |
