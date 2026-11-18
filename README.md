@@ -18,17 +18,16 @@
 ## 👨‍💻 About Me
 <div align="center">
   
-  *Hello! I'm Piash, a passionate learner and developer exploring the world of AI and mobile development.*
+  *Hi there! 👋 I'm **Md. Shazzadur Rahman Piash**, a passionate software developer and tech enthusiast.*
   
-  | 🎓 **Education** | University Student |
+  | 🎓 **Education** | Final-year CSE Student at **Daffodil International University** |
   | :--- | :--- |
-  | 🤖 **Focus** | Building AI Assistant Projects |
-  | 📱 **Currently Learning**| Flutter App Development & Dart |
-  | 🚀 **Passion** | Solving real-life problems through code |
-  | 🎵 **Hobbies** | Music 🎧 & Traveling ✈️ |
+  | 📱 **App Dev** | Building cross-platform mobile apps with **Flutter** & **React Native** (e.g., Speakup, LifeOS) |
+  | 🤖 **ML Research**| Experience in Applied Machine Learning (Student Dropout Prediction) |
+  | 🌐 **Web Dev** | Developing interactive web applications and e-commerce platforms |
+  | 🚀 **Passion** | Turning complex problems into clean, scalable, and real-world applications |
 
 </div>
-
 ---
 
 ## 🛠️ Skills & Technologies 
