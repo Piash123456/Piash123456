@@ -34,7 +34,7 @@
 ## 🛠️ Skills & Technologies 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,flutter,dart,html,css,js,git,github,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,python,html,css,firebase,git,github" alt="Skills" />
   </a>
 </p>
 
@@ -43,12 +43,12 @@
 ## 🚀 Featured Projects
 | 🏆 Project Name | 💻 Tech Stack | 📌 Description |
 | :--- | :--- | :--- |
-| **🤖 AI Chatbot** | Python, HTML | An intelligent chatbot to assist users |
-| **📱 Expense Tracker** | Flutter, Dart | A mobile app to track daily expenses |
-| **🛒 Shopping List App** | Android, Java | A handy tool for grocery shopping |
-| **🌐 Portfolio Website** | HTML, CSS, JS | My personal developer portfolio |
-
-*(Pro tip: Update the project names with repository links later!)*
+| **[Speakup-Chatapp](https://github.com/Piash123456/Speakup-Chatapp)** | Flutter, Dart | A real-time chat application |
+| **[LifeOS](https://github.com/Piash123456/LifeOS)** | Flutter, Firebase | Personal Life Management System |
+| **[weather-app-flutter](https://github.com/Piash123456/weather-app-flutter)** | Flutter, API Integration | A weather app using API integration |
+| **[Student-Dropout-Prediction](https://github.com/Piash123456/Student-Dropout-Prediction)** | Python, Machine Learning | University research predicting student dropout |
+| **[My-portfolio](https://github.com/Piash123456/My-portfolio)** | React Native, JavaScript | Personal developer portfolio |
+| **[ecommerce-web-clothing-store](https://github.com/Piash123456/ecommerce-web-clothing-store)** | HTML, Web | An e-commerce website for a clothing store |
 
 ---
 
