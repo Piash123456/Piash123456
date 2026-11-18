@@ -74,12 +74,25 @@
 
 ---
 
-## 👀 Profile Views 
+---
+
+## 🌟 Daily Inspiration
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Piash123456&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </p>
 
-<!-- 🔥 FOOTER WAVE -->
+---
+
+## 👀 Profile Views 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" alt="Footer Wave" />
+  <img src="https://komarev.com/ghpvc/?username=Piash123456&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>Thanks for stopping by! Let's build something awesome together. 🚀</i>
+</p>
+
+<!-- 🔥 PREMIUM FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=150&section=footer" alt="Footer Wave" />
 </p>
